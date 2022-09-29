@@ -9,6 +9,12 @@
 ![image](https://user-images.githubusercontent.com/38674801/193015252-1e856da7-07e0-4d2a-a2f8-18dfe6cccb14.png)
 ![image](https://user-images.githubusercontent.com/38674801/193015316-9aacb38b-29d3-46cf-99b0-b83ca307d742.png)
 
-## delete list number 2
-![image](https://user-images.githubusercontent.com/38674801/193015455-1409626b-16ce-4cab-966e-14c0e88f7728.png)
+## delete list number 3
+![image](https://user-images.githubusercontent.com/38674801/193156225-281b624e-eb0f-4f00-b31b-e77e77dd23fe.png)
+
+## update
+![image](https://user-images.githubusercontent.com/38674801/193155740-f78f67fb-3c9e-48c0-8f2b-d499528b7dd6.png)
+![image](https://user-images.githubusercontent.com/38674801/193155792-390e9c95-6ce2-4bad-a2d6-22b8c1c73d98.png)
+
+
 
