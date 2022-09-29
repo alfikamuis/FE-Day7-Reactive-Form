@@ -1,0 +1,26 @@
+<div class="child2" >
+    <table class="table">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Nama</th>
+                <th>Kota</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let p of listData">
+                <td>{{ p.id }}</td>
+                <td>{{ p.nama }}</td>
+                <td>{{ p.kota }}</td>
+                <td>
+                    <a class="btn btn-primary" >View</a>
+                    <a class="btn btn-info" >Edit</a>
+                    <button type="submit" class="btn btn-danger" (click)="deleteRow(p)">
+                        Delete
+                    </button>
+                </td>
+              </tr>
+        </tbody>
+    </table>
+  </div>
